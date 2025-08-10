@@ -1,5 +1,9 @@
 # Clicker Game
 
+> this readme was made by chatgpt
+
+---
+
 A simple browser-based clicker game where you earn points by clicking and purchasing upgrades. Includes an autoclicker system and a clean, responsive UI.
 
 ## Features
@@ -29,4 +33,3 @@ A simple browser-based clicker game where you earn points by clicking and purcha
 ## License
 This project is released under the MIT License. You can modify and share it freely.
 
-> this readme was made by chatgpt
