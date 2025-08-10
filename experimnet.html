@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Clicker Game</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="stuff">
+      <h1>clicker</h1>
+      <p>points: <span id="counter">0</span></p>
+      <p>CPS: <span id="cps">0</span></p>
+      <button onclick="inc()">click Me</button>
+      <button onclick="buyUpgrade()">upgrade click (Cost: <span id="upgradeCost">10</span>)</button>
+      <button onclick="buyAutoclicker()">buy autoclicker (Cost: <span id="autoCost">50</span>)</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
