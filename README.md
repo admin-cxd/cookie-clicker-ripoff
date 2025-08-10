@@ -14,20 +14,20 @@ A simple browser-based clicker game where you earn points by clicking and purcha
 - **Polished UI** – Gradient background, centered card layout, styled buttons.
 
 ## How to Play
-1. Open `experimnet.html` in your browser.
+1. Open `index.html` in your browser.
 2. Click **Click Me** to earn points.
 3. Buy **Upgrade Click** to increase your click value.
 4. Buy **AutoClicker** to generate points automatically.
 5. Watch your **CPS** grow as you purchase more autoclickers and upgrades.
 
 ## Files
-- `experimnet.html` – Main HTML file containing the game structure.
+- `index.html` – Main HTML file containing the game structure.
 - `style.css` – Stylesheet for the game layout and visuals.
 - `script.js` – Game logic, including clicking, upgrades, autoclickers, and CPS tracking.
 
 ## Installation
 1. Download or clone this repository.
-2. Open `experimnet.html` in any modern browser.
+2. Open `index.html` in any modern browser.
 3. Play instantly — no setup required.
 
 ## License
